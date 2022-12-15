@@ -1,0 +1,4 @@
+div.main {top: 5%; left: 0; width: 99%; height: 95%; position: absolute; display: table; justify: center;}
+  p {display: table-cell; vertical-align: middle; text-align: center;}
+  a	{ color: black; }
+div.bar { position: fixed; top: 0; z-index: 1; }
